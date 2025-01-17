@@ -1,10 +1,23 @@
 
 /* Your CSS Code here. */
-form{
-	
+#frm{
+	border:5px solid black;
+	border-radius:15px;
+	height:450px;
+	width:400px;
 	align-items:center;
 	justify-content:center;
 	background-color:burlywood;
-	padding:10px;
+	padding:40px;
 	
+}
+#content{
+		/* display:flex; */
+	align-items:center;
+	justify-content:center;
+}
+#submit{
+	display:flex;
+	align-items:center;
+	justify-content:center;
 }
